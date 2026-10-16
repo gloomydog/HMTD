@@ -16,13 +16,12 @@ In 1912, Girsewald reported an efficient synthesis of HMTD based on the decompos
 
 ## References
 
-| File Name | Title | Journal |
-|-----------|-------|---------|
-|legler1885.pdf| Ueber Produote der lengsemen Verbrennung
-dee Aethyltlthers. |Berichte der Deutschen Chemischen Gesellschaft 18 (1885), No. 655, pp. 3343–3351. |
-| | | |
-| | | |
-| | | |
+| File Name | Journal |
+|-----------|---------|
+|legler1885.pdf|Berichte der Deutschen Chemischen Gesellschaft 18 (1885), No. 655, pp. 3343–3351. |
+|nef1897.pdf| Annalen der Chemie 298. (1897)|
+|baeyer_villiger_1900.pdf|Berichte der Deutschen Chemischen Gesellschaft 33 (1900), No. 408, pp. 2479– 2487. |
+|girsewald1912.pdf | Berichte der Deutschen Chemischen Gesellschaft, Jahrg. XLV (1912), No. 332, pp. 2571–2576.|
 
  
  
