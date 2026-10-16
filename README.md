@@ -24,6 +24,9 @@ In 1912, C. von Girsewald reported an efficient synthesis of HMTD based on the d
 ![C. von Girswald](images/images-4.png)
 
 ## Synthetic method
+Here, I provide a detailed synthetic method. 
+
+From [J. Phys. Chem. A, Vol. 105, No. 38, 2001](articles/wierzbicki2001.pdf)
 
  HMTD is a powerful explosiVe. A 125 mL three-neck flask equipped with a paddle-type microstirrer was charged with 7.00 g (50 mmol) of hexamethylenetetramine and 23 mL of 50% H2O2 and chilled to ∼0 °C (ice/NaCl). While being stirred,11.5 g (54.7 mmol) citric acid monohydrate was added in 10 small portions over the course of 2 h. The clear solution was stirred at ∼0 °C for an additional 8 h; the ice-bath was removed,and the solution was allowed to warm slowly to room temperature. The resultant opaque mixture was stirred for an additional 2 h, the micro-stirrer was removed, and the flask containing the product was re-chilled in ice for 30 min. The white crystalline material was gravity filtered and then rinsed with 3 × 50 mL ice water, followed by 2 × 20 mL ice-cold CH3OH
 rinses. The crystalline material and filter paper was dried in a vacuum desiccator (CaSO4) overnight to afford 5.75 g (27.6
@@ -44,7 +47,8 @@ All papers mentioned above are available in the [articles/](articles/) directory
 |[baeyer_villiger_1900.pdf](articles/baeyer_villiger_1900.pdf)|Berichte der Deutschen Chemischen Gesellschaft 33 (1900), No. 408, pp. 2479– 2487. |
 |[baeyer_villiger_1900_en.pdf](articles/baeyer_villiger_1900_en.pdf)|English translation made by Claude Opus 5.0|
 |[girsewald1912.pdf](articles/girsewald1912.pdf) | Berichte der Deutschen Chemischen Gesellschaft, Jahrg. XLV (1912), No. 332, pp. 2571–2576.|
-|[girsewald1912_en.pdf](articles/girsewald1912_en.pdf)|English translation made by Claude Opus 5.0
+|[girsewald1912_en.pdf](articles/girsewald1912_en.pdf)|English translation made by Claude Opus 5.0|
+|[wierzbicki2001.pdf](articles/wierzbicki2001.pdf)|J. Phys. Chem. A, Vol. 105, No. 38, 2001|
 
  
  
