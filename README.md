@@ -1,6 +1,6 @@
 # HMTD (hexamethylenetriperoxidediamine)
 
-This repository documents the historical discovery of HMTD , with the original sources provided as PDFs. Some of the articles were originally written in German. English translations are also included.
+This repository documents the historical discovery and synthetic method of HMTD , with the original sources provided as PDFs. Some of the articles were originally written in German. English translations are also included.
 
 ## Brief History
 
@@ -23,6 +23,9 @@ In 1912, C. von Girsewald reported an efficient synthesis of HMTD based on the d
 
 ![C. von Girswald](images/images-4.png)
 
+## Synthetic method
+
+## Reaction mechanism
 
 ## References
 
