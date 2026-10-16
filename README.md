@@ -25,6 +25,27 @@ In 1912, C. von Girsewald reported an efficient synthesis of HMTD based on the d
 
 ## Synthetic method
 
+```
+ HMTD is a powerful explosiVe. A 125 mL three-neck
+flask equipped with a paddle-type microstirrer was charged with
+7.00 g (50 mmol) of hexamethylenetetramine and 23 mL of
+50% H2O2 and chilled to ∼0 °C (ice/NaCl). While being stirred,
+11.5 g (54.7 mmol) citric acid monohydrate was added in 10
+small portions over the course of 2 h. The clear solution was
+stirred at ∼0 °C for an additional 8 h; the ice-bath was removed,
+and the solution was allowed to warm slowly to room temper-
+ature. The resultant opaque mixture was stirred for an additional
+2 h, the micro-stirrer was removed, and the flask containing
+the product was re-chilled in ice for 30 min. The white
+crystalline material was gravity filtered and then rinsed with
+3 × 50 mL ice water, followed by 2 × 20 mL ice-cold CH3OH
+rinses. The crystalline material and filter paper was dried in a
+vacuum desiccator (CaSO4) overnight to afford 5.75 g (27.6
+mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp )
+144-145 °C;17 154 °C18); 1H NMR (CDCl3): δ 4.80; 13C NMR
+δ 90.44.
+
+```
 ## Reaction mechanism
 
 ## References
