@@ -2,6 +2,8 @@
 
 This repository documents the historical discovery and synthesis procedures of HMTD , with the original sources provided as PDFs. Some of the articles were originally written in German. English translations are also included.
 
+![HMTD](images/images-0.png)
+
 ## Brief History
 
 HMTD is known for a high explosive organic peroxide compound. 
