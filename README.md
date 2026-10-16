@@ -26,6 +26,8 @@ In 1912, C. von Girsewald reported an efficient synthesis of HMTD based on the d
 
 ## References
 
+All papers mentioned above are available in the [articles/](articles/) directory. The German PDFs are too old to render on GitHub, so please download them locally.
+
 | File Name | Journal |
 |-----------|---------|
 |[legler1885.pdf](articles/legler1885.pdf)|Berichte der Deutschen Chemischen Gesellschaft 18 (1885), No. 655, pp. 3343–3351. |
