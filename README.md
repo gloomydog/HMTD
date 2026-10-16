@@ -4,6 +4,9 @@ This repository documents the historical discovery of HMTD , with the original s
 
 ## Brief History
 
+HMTD is known for a high explosive organic peroxide compound. 
+It was originally intended for use in detonators, but owing to its instability, it failed to displace mercury fulminate, which was the prevailing choice at the time. Today, its facile and inexpensive synthesis has made it a component of choice in HMEs and terrorist activities.
+
 HMTD was first synthesized in 1855 by the German chemist L. Legler. His article concerned the oxidation of diethyl ether, but he serendipitously obtained "Lamp acid" by oxidizing diethyl ether with O₂ over Pt under harsh conditions. He subsequently treated Lamp acid with ammonia to afford HMTD. Notably, Legler was unable to correctly identify the structure of Lamp acid, and his synthetic method was inefficient; he reported obtaining only a trace amount of HT.
 
 In 1897, J. U. Nef identified the Lamp acid obtained by Legler as a trimer of BHMP. He also elucidated the mechanism of Legler's oxidation: diethyl ether is oxidized to give formaldehyde, hydrogen peroxide, acetaldehyde, acetic acid, and formic acid, among which hydrogen peroxide and formaldehyde react to form BHMP (Lamp acid).
