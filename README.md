@@ -48,7 +48,7 @@ The HTMD reaction mechanism proceeds in two steps.
 ![decomposition of hexamine](images/images-5.png)
 
 
-![formation of HMTD](images/images-6-2.png)
+![formation of HMTD](images/image-6-2.png)
 
 ## References
 
