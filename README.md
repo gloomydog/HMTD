@@ -42,8 +42,14 @@ mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp ) 144-145 °C;17 154 °C18)
 
 ## Reaction mechanism (WIP)
 The HTMD reaction mechanism proceeds in two steps.
-1. the decomposition of hexamine.
-2. the reaction of the decomposition products with hydrogen peroxide.
+1. decomposition of hexamine.
+2. reaction of the decomposition products with hydrogen peroxide.
+
+![decomposition of hexamine](images/images-5.png)
+
+
+![formation of HMTD](images/images-6-2.png)
+
 ## References
 
 All papers mentioned above are available in the [articles/](articles/) directory. The German PDFs are too old to render on GitHub, so please download them locally.
