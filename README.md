@@ -42,15 +42,16 @@ mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp ) 144-145 °C;17 154 °C18)
 
 ## Reaction mechanism (WIP)
 The HTMD reaction mechanism proceeds in two steps.
-1. decomposition of hexamine.
-2. reaction of the decomposition products with hydrogen peroxide.
+I. decomposition of hexamine.
+II. reaction of the decomposition products with hydrogen peroxide.
 
-Hexamine undergoes hydrolysis to formaldehyde and ammonia. The reaction is the reverse of formation and proceeds through repeated iminium ion mediated C-N cleavage.
-1. N-protionation occurrs. Hexamine is a weak monoacidic base. Rapi, reversivle protonation at one bridehead nitrogen goves HMTAH+.
+ Hexamethylenetetramine (HMTA) undergoes hydrolysis to formaldehyde and ammonia. The reaction is the reverse of formation and proceeds through repeated iminium ion mediated C-N cleavage.
+1. N-protionation occurrs. Hexamine is a weak monoacidic base. Rapidly, reversivle protonation at one bridehead nitrogen gives HMTAH+.
 2. Ring opening to an iminium ion. Assisted by the lone pair of an adjacent N, the C-N+ bond heterolyses.This opens the cage and generates a R2N+=CH2 together with a pendant secondary amine.
 3. Nucleophilic addtion of water to the imminium carbon then gives a hemiaminal, R2N-CH2-OH.
-4. N-protonation of the hemiaminal, fllowed by the C-N cleavage driven by the hydroxyl oxgen, expels the amine and releases formaldehyde.
-These steps repeat for each methylene unit. They pass through progressively degraded intermediates: 1,3,5,7-tetraazabicyclo[3.3.1]nonane (TBN), triazinane-type and aclyclic aminomethyl species, methanediamin, and aminomethanol. Each nitrogen is finally released as ammonia.
+4. N-protonation of the hemiaminal, fllowed by the C-N cleavage driven by the hydroxyl oxygen, expels the amine and releases formaldehyde.
+
+ These steps repeat for each methylene unit. They pass through progressively degraded intermediates: 1,3,5,7-tetraazabicyclo[3.3.1]nonane (TBN), triazinane-type and aclyclic aminomethyl species, methanediamin, and aminomethanol. Each nitrogen is finally released as ammonia.
 
 ![decomposition of hexamine](images/images-5.png)
 
