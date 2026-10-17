@@ -45,7 +45,7 @@ The HTMD reaction mechanism proceeds in two steps.
 I. decomposition of hexamine.
 II. reaction of the decomposition products with hydrogen peroxide.
 
- Hexamethylenetetramine (HMTA) undergoes hydrolysis to formaldehyde and ammonia. The reaction is the reverse of formation and proceeds through repeated iminium ion mediated C-N cleavage.
+ In aqueous condition, Hexamethylenetetramine (HMTA) undergoes hydrolysis to formaldehyde and ammonia. The reaction is the reverse of formation and proceeds through repeated iminium ion mediated C-N cleavage.
 1. N-protionation occurrs. Hexamine is a weak monoacidic base. Rapidly, reversivle protonation at one bridehead nitrogen gives HMTAH+.
 2. Ring opening to an iminium ion. Assisted by the lone pair of an adjacent N, the C-N+ bond heterolyses.This opens the cage and generates a R2N+=CH2 together with a pendant secondary amine.
 3. Nucleophilic addtion of water to the imminium carbon then gives a hemiaminal, R2N-CH2-OH.
