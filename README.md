@@ -43,6 +43,7 @@ mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp ) 144-145 °C;17 154 °C18)
 ## Reaction mechanism (WIP)
 The HTMD reaction mechanism proceeds in two steps; the decomposition of hexamine, and the reaction of the decomposition products with hydrogen peroxide.
 
+***Fisrt step***
  In aqueous condition, Hexamethylenetetramine (HMTA) undergoes hydrolysis to formaldehyde and ammonia. (although the reaction mechanism is depicted as equilibrium. The use of citric acid in this system shifts the equilibrium to the right.) The reaction proceeds through repeated iminium ion mediated C-N cleavage.
 1. N-protionation occurrs. Hexamine is a weak monoacidic base. Rapidly, reversivle protonation at one bridehead nitrogen gives HMTAH+.
 2. Ring opening to an iminium ion. Assisted by the lone pair of an adjacent N, the C-N+ bond heterolyses.This opens the cage and generates a R2N+=CH2 together with a pendant secondary amine.
@@ -58,7 +59,8 @@ This step is also an equilibrium process.
 
 ![formation of HMTD](images/images-6-1.png)
 
-First, formaldehyde is activated by the acid from citric acid and undergoes nucleophilic attac by hydrogen peroxide to afford BHMP. Subsequently, the imine is similarly activated by the acid and reacts with hydrogen peroxide to form BMAP.
+***Second step***
+First, formaldehyde is activated by the acid from citric acid and undergoes nucleophilic attack by hydrogen peroxide to afford bis(hydroxymethyl)peroxide (BHMP). Subsequently, the imine is similarly activated by the acid and reacts with hydrogen peroxide to provide bis(aminomethyl) peroxide (BAMP).Finally, condensation of two equivalents pf BHMP with one equivalent of BAMP, followed by cyclization, yields HMTD.
 
 ![formation of HMTD](images/images-6-2.png)
 
