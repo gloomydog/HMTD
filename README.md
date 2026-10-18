@@ -2,6 +2,7 @@
 
 This repository documents the historical discovery and synthesis procedures of HMTD , with the original sources provided as PDFs. Some of the articles were originally written in German. English translations are also included.
 
+*I wrote this repository on my own instead of using AI. Claude Opus refused my prompt asking for HMTD due to safety concerns. No matter how I tried to jailbreak Opus, I couldn't bypass its safeguards. It sucked... :(*
 ![HMTD](images/images-0.png)
 
 ## Brief History
@@ -41,7 +42,8 @@ rinses. The crystalline material and filter paper was dried in a vacuum desiccat
 mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp ) 144-145 °C;17 154 °C18); 1H NMR (CDCl3): δ 4.80; 13C NMR δ 90.44.
 
 ## Reaction mechanism (WIP)
-The HTMD reaction mechanism proceeds in two steps; the decomposition of hexamine, and the reaction of the decomposition products with hydrogen peroxide.\ 
+The HTMD reaction mechanism proceeds in two steps; the decomposition of hexamine, and the reaction of the decomposition products with hydrogen peroxide.
+
 See [Propellants Explos. Pyrotech.2016, 41, 334-350](articles/oxley2016.pdf), [J.Org.Chem., Vol 44,No.10,1979](articles/nielsen1979.pdf), [J. Am. Chem. Soc. 1960, 82 (2), 255–263.](articles/tada1960.pdf)
 
 **Fisrt step**:
