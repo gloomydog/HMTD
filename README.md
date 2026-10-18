@@ -42,7 +42,7 @@ rinses. The crystalline material and filter paper was dried in a vacuum desiccat
 mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp ) 144-145 °C;17 154 °C18); 1H NMR (CDCl3): δ 4.80; 13C NMR δ 90.44.
 
 ![synthesis method](images/images-7-1.png)
-![purification](images/images-7-1.png)
+![purification](images/images-7-2.png)
 
 ## Reaction mechanism (WIP)
 The HTMD reaction mechanism proceeds in two steps; the decomposition of hexamine, and the reaction of the decomposition products with hydrogen peroxide.
