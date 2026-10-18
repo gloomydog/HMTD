@@ -41,7 +41,8 @@ rinses. The crystalline material and filter paper was dried in a vacuum desiccat
 mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp ) 144-145 °C;17 154 °C18); 1H NMR (CDCl3): δ 4.80; 13C NMR δ 90.44.
 
 ## Reaction mechanism (WIP)
-The HTMD reaction mechanism proceeds in two steps; the decomposition of hexamine, and the reaction of the decomposition products with hydrogen peroxide.
+The HTMD reaction mechanism proceeds in two steps; the decomposition of hexamine, and the reaction of the decomposition products with hydrogen peroxide. 
+See [Propellants Explos. Pyrotech.2016, 41, 334-350](articles/oxley2016.pdf) [J.Org.Chem., Vol 44,No.10,1979](articles/nielsen1979.pdf)
 
 **Fisrt step**:
  In aqueous condition, Hexamethylenetetramine (HMTA) undergoes hydrolysis to formaldehyde and ammonia. (although the reaction mechanism is depicted as equilibrium. The use of citric acid in this system shifts the equilibrium to the right.) The reaction proceeds through repeated iminium ion mediated C-N cleavage.
@@ -79,6 +80,8 @@ All papers mentioned above are available in the [articles/](articles/) directory
 |[girsewald1912.pdf](articles/girsewald1912.pdf) | Berichte der Deutschen Chemischen Gesellschaft, Jahrg. XLV (1912), No. 332, pp. 2571–2576.|
 |[girsewald1912_en.pdf](articles/girsewald1912_en.pdf)|English translation made by Claude Opus 5.0|
 |[wierzbicki2001.pdf](articles/wierzbicki2001.pdf)|J. Phys. Chem. A, Vol. 105, No. 38, 2001|
+|[nielsen1979.pdf](articles/nielsen1979.pdf)|J.Org.Chem., Vol 44,No.10,1979|
+|[oxley2016.pdf](articles/oxley2016.pdf)|Propellants Explos. Pyrotech.2016, 41, 334-35|
 
  
  
