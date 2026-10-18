@@ -44,7 +44,7 @@ mmol; 55%) product: mp ) 152-153 °C (exp.) (lit. mp ) 144-145 °C;17 154 °C18)
 ![synthesis method](images/images-7-1.png)
 ![purification](images/images-7-2.png)
 
-## Reaction mechanism (WIP)
+## Reaction mechanism 
 The HTMD reaction mechanism proceeds in two steps; the decomposition of hexamine, and the reaction of the decomposition products with hydrogen peroxide.
 
 See [Propellants Explos. Pyrotech.2016, 41, 334-350](articles/oxley2016.pdf)/ [J.Org.Chem., Vol 44,No.10,1979](articles/nielsen1979.pdf)/ [J. Am. Chem. Soc. 1960, 82 (2), 255–263.](articles/tada1960.pdf)
@@ -72,7 +72,7 @@ First, formaldehyde is activated by the acid from citric acid and undergoes nucl
 
 ## References
 
-All papers mentioned above are available in the [articles/](articles/) directory. The German PDFs are too old to render on GitHub, so please download them locally.
+All papers mentioned above are available in the [articles/](articles/) directory. Some PDFs are too old to render on GitHub, so please download them locally.
 
 | File Name | Journal |
 |-----------|---------|
