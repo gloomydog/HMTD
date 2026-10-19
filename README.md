@@ -70,6 +70,11 @@ First, formaldehyde is activated by the acid from citric acid and undergoes nucl
 
 ![formation of HMTD](images/images-6-2.png)
 
+##Mitigation
+HMTD is unstable, and its decomposition can occasionally trigger an explosive reation. Understanding appropriate mitigation measures is therefore essential for safe handling. HMTD decomposed readily in the presence of diluted acids such as HCl or H2SO4, whereas concentrated acids induce detonation.
+[!NOTE]
+Only dilute acids must be used.
+
 ## References
 
 All papers mentioned above are available in the [articles/](articles/) directory. Some PDFs are too old to render on GitHub, so please download them locally.
